@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @StavrosBakandreas
 - 👀 I’m interested in Computational Physics
 - 🌱 I’m currently learning Python and Bash scripting
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: stavrosbak@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: Wanna be a Ph.D. with computational skills
 
 <!---
